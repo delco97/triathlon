@@ -1,4 +1,4 @@
-# Triathlon Race Simulator
+# Triathlon tracker
 
 ![Demo](./docs/img/demo.gif)
 
